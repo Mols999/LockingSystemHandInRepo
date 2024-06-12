@@ -1,7 +1,0 @@
-![login](https://github.com/Mols999/LockingSystemHandInRepo/assets/114399978/f49eba37-1307-458f-8cc1-12fc367e0dee)
-![register](https://github.com/Mols999/LockingSystemHandInRepo/assets/114399978/75ef97da-2158-4614-8ce9-0f234a7689ec)
-![home](https://github.com/Mols999/LockingSystemHandInRepo/assets/114399978/d53f30b9-3525-40f3-a26d-c4d490f2ccde)
-![Patient](https://github.com/Mols999/LockingSystemHandInRepo/assets/114399978/7bee3379-b24e-498e-8f17-bd91ddefbf93)
-![support](https://github.com/Mols999/LockingSystemHandInRepo/assets/114399978/730e1df8-7b78-4823-afdb-cfc6b42b16d6)
-![Monitor Locker](https://github.com/Mols999/LockingSystemHandInRepo/assets/114399978/3199c10f-bcb3-49c1-9392-38b77781bc4c)
-![logs](https://github.com/Mols999/LockingSystemHandInRepo/assets/114399978/6b8b3d04-eff4-4f75-aa37-93ea04edc923)
