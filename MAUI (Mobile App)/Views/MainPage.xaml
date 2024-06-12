@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:SpecialiseringsEksamen.ViewModels"
+             x:Class="SpecialiseringsEksamen.Views.MainPage">
+    <ContentPage.Content>
+        <StackLayout Padding="30" Spacing="20" VerticalOptions="Center" HorizontalOptions="Center">
+            <Label Text="Hospital Locker App"
+                   FontSize="28"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"
+                   TextColor="DarkBlue"/>
+
+            <Entry Placeholder="Enter locker number"
+                   Text="{Binding LockerNumber}"
+                   FontSize="18"
+                   HorizontalOptions="FillAndExpand"
+                   TextColor="Black"/>
+
+            <Button Text="Unlock Locker"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    BackgroundColor="DarkBlue"
+                    TextColor="White"
+                    CornerRadius="10"
+                    VerticalOptions="Center"
+                    Command="{Binding UnlockCommand}"/>
+
+            <Button Text="Lock Locker"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    BackgroundColor="Red"
+                    TextColor="White"
+                    CornerRadius="10"
+                    VerticalOptions="Center"
+                    Command="{Binding LockCommand}"/>
+
+            <ActivityIndicator IsRunning="{Binding IsBusy}"
+                               IsVisible="{Binding IsBusy}"
+                               Color="DarkBlue"
+                               VerticalOptions="Center"/>
+
+            <Button Text="Logout"
+                    FontSize="18"
+                    FontAttributes="Bold"
+                    BackgroundColor="Gray"
+                    TextColor="White"
+                    CornerRadius="10"
+                    VerticalOptions="End"
+                    Command="{Binding LogoutCommand}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
