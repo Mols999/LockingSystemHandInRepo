@@ -1,3 +1,7 @@
+https://github.com/Mols999/LockingSystemHandInRepo/assets/114399978/d78d653c-ff20-4983-afc1-6c6a5253f658
+
+https://github.com/Mols999/LockingSystemHandInRepo/assets/114399978/d38e6eff-1e11-4eb9-94e1-431a5b729b3e
+
 ![register](https://github.com/Mols999/LockingSystemHandInRepo/assets/114399978/23163201-64f2-4c83-af69-aea7a02189aa)
 ![login](https://github.com/Mols999/LockingSystemHandInRepo/assets/114399978/65db5505-dd0c-4539-81db-17c538324184)
 ![home](https://github.com/Mols999/LockingSystemHandInRepo/assets/114399978/d37f77d0-d2e4-46f0-a08c-2610cb9a88fb)
